@@ -5,3 +5,4 @@ check_util
 .ipynb_checkpoints
 __MACOSX
 tensorflow2.0-rnn-project.ipynb
+*.csv
